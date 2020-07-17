@@ -1,6 +1,17 @@
 ### Hi there 👋
 
+
+
+
+
 <!--
+<p align="center">
+	<a href="https://github.com/augustoscher"><img src="https://img.shields.io/github/followers/augustoscher.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/augustoscher"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Faugustoschergm1" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/augustoscher"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+
 **augustoscher/augustoscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
