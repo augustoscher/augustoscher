@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-
+- 🔭 I’m currently working on @jusbrasil
+- 🌱 I’m currently learning Clojure, Kubernetes (Devops), Elasticsearch
+- 📫 How to reach me: augustoscher.com
 
 
 
