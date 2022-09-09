@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [@jusbrasil](https://github.com/jusbrasil)
-- 🌱 I’m currently learning NextJS, Clojure, Scala, Node (always), Serverless, Kubernetes, Elasticsearch...
+- 🌱 I’m currently learning NextJS, GraphQL Federation, Scala, Node (always), Serverless, Kubernetes, Elasticsearch...
 - 📫 How to reach me: [augustoscher.com](http://augustoscher.com/)
 
 
