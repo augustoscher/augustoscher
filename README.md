@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [@jusbrasil](https://github.com/jusbrasil)
+- 🔭 I’m currently working to improve search experience at [@jusbrasil](https://github.com/jusbrasil)
 - 🌱 I’m currently learning NextJS, GraphQL Federation, Scala, Node, Serverless, Kubernetes, Elasticsearch...
 - 📫 How to reach me: [augustoscher.com](http://augustoscher.com/)
 
