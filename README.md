@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Engineering Manager at [@jusbrasil](https://github.com/jusbrasil)
-- 🌱 I’m currently learning and working with Gen AI, MCPs, NextJS, Scala, Node, Go, Kubernetes, Elasticsearch...
+- 🌱 I’m currently learning and working with Gen AI, LLMs, MCPs, NextJS, Scala, Node, Go, Kubernetes, Elasticsearch...
 - 📫 How to reach me: [augustoscher.com](http://augustoscher.com/) | [HackerRank](https://www.hackerrank.com/augustoscher)
 
 
